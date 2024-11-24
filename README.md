@@ -15,7 +15,3 @@
 
 ## Compilation and Execution
 Instructions for compiling `.asm` files with `nasm` and running them in your environment.
-
-## Challenges and Insights
-- [Challenges encountered while working on the tasks.]
-- [Insights gained from the experience.]
